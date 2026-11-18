@@ -15,3 +15,13 @@ Building on Deng et al. (2024), Wang et al. (2024), and Yong et al. (2023), we w
 11/17: Experiment notebook updated to include rudimentary Qwen baseline model for three languages (English, Korean, Swahili)
 
 11/15: Proposal updates and experiment notebook created.
+
+## References
+
+Deng, Y., Zhang, W., Pan, S. J., & Bing, L. (2024). Multilingual Jailbreak Challenges in Large Language Models. ICLR 2024.
+
+Wang, W., et al. (2024). All Languages Matter: On the Multilingual Safety of Large Language Models. Findings of ACL 2024.
+
+Yong, Z. X., et al. (2023). Low-Resource Languages Jailbreak GPT-4. arXiv:2310.02446.
+
+Chao, P., et al. (2024). JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models. NeurIPS 2024.
